@@ -168,6 +168,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPXELKLB
 
+[Document8]
+DocumentPath=ESP32C3_RCM.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=ESP32C3_RCM.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SAQNPBVJ
+
 [ProjectVariant1]
 UniqueID=6D3F0CE8-E21E-4E01-9ED9-E74ABE1CF7C2
 Description=V1I1
@@ -177,13 +211,101 @@ VariationCount=0
 AllowVariationPastMask=1
 ParamVariationCount=0
 
-[Parameter1]
-Name=Issue
-Value=V1I1
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Design Rule Check - ESP32C3_RCM.html
+DItemRevisionGUID=
 
-[Parameter2]
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\NC Drill\ESP32C3_RCM-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\NC Drill\ESP32C3_RCM-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\NC Drill\ESP32C3_RCM.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\NC Drill\ESP32C3_RCM.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GD2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GM
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\NC Drill\ESP32C3_RCM.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Remote_ESP_Light_Controler\Generate Files\GerberX2\ESP32C3_RCM.REP
+DItemRevisionGUID=
+
+[Parameter1]
 Name=DrawnBy
 Value=Ernest Rychlicki
+
+[Parameter2]
+Name=Issue
+Value=V1I1
 
 [Configuration1]
 Name=Sources

@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=[1] ESP32_C3.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=[1] ESP32_C3.SchDoc|FileName=[2] PWR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[1] ESP32_C3.SchDoc|FileName=[3] USB C UART.SchDoc|SheetNumber=3
